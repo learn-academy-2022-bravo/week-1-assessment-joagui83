@@ -42,7 +42,7 @@ Logical Operators && AND, ||OR, !NOT
   Your answer:
   index is the position of an element inside a value. Value is whats passed on a variable: Numbers, Strings, Booleans, null, undefined, and symbol 
   Researched answer:
-  Index contains the postion of an item in an expression. A value is what a variable is set you. It can be any data type and be changed at any time in Javascript. 
+  Index contains the position of an item in an expression. A value is what a variable is set to. It can be any data type and be changed at any time in Javascript. 
 
 
 4. What is iteration?
